@@ -10,4 +10,4 @@ I'm a Junior Software Developer, I have been away from software development for 
 
 ### Recent GitHub projects
 - A repository that i place the code of every algorithm i learn.
-- A Spring Boot AWS application for learning purposes
+- (springboot-app-ws) A Spring Boot AWS application for learning purposes.
